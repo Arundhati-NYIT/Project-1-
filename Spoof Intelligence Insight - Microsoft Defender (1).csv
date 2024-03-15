@@ -1,0 +1,27 @@
+﻿Spoofed user,Sending infrastructure,Message count,Last seen,Spoof type,Action
+301consulting-tech.online,salesforce.com,3,2024-02-27T14:05:34.000Z,External,Block
+roocruit.com,emsend1.com,3,2024-02-21T13:49:50.000Z,External,Block
+designsupply.org,salesforce.com,3,2024-02-26T14:08:23.000Z,External,Block
+sourceryrecruiting.us,salesforce.com,2,2024-02-19T15:00:01.000Z,External,Block
+ampliz-leads.com,salesforce.com,2,2024-02-27T15:45:33.000Z,External,Block
+semerra.com,google.com,2,2024-03-02T17:06:10.000Z,External,Allow
+vyrix.pro,google.com,2,2024-02-27T15:08:49.000Z,External,Allow
+lpthatconverts.com,google.com,2,2024-02-29T01:16:47.000Z,External,Allow
+gmail.com,168.167.100.0/24,1,2024-02-12T20:12:41.000Z,External,Block
+2fa.io,nxcli.net,1,2024-02-28T14:44:24.000Z,External,Block
+taurusquest.com,zcsend.in,1,2024-02-06T18:02:39.000Z,External,Block
+emotionalintelligencecourse.com,mcdlv.net,1,2024-02-11T03:17:58.000Z,External,Block
+datadriven-solutions.co,salesforce.com,1,2024-02-13T18:29:57.000Z,External,Block
+wcb.ab.ca,cp20.com,1,2024-02-02T15:02:38.000Z,External,Block
+ricepoint.com,ipost.com,1,2024-02-20T05:10:17.000Z,External,Block
+nero.be,hlev.gob.pe,1,2024-02-18T13:42:47.000Z,External,Block
+accufin.live,salesforce.com,1,2024-02-16T19:15:24.000Z,External,Block
+roocruit.com,52.128.42.0/24,1,2024-02-27T14:14:01.000Z,External,Block
+leads-marketing.net,salesforce.com,1,2024-02-08T18:10:19.000Z,External,Block
+podpire.com,sendgrid.net,1,2024-02-03T22:42:51.000Z,External,Block
+bestwesternstalbert.com,tcgms.net,1,2024-02-27T00:18:22.000Z,External,Allow
+healy.world,outlook.com,1,2024-02-01T23:41:33.000Z,External,Allow
+studiosparqs.com,google.com,1,2024-02-07T11:53:23.000Z,External,Allow
+mabarnk.com,google.com,1,2024-02-15T13:24:55.000Z,External,Allow
+strathearncl.org,google.com,1,2024-02-27T00:08:30.000Z,External,Allow
+hannashea.com,google.com,1,2024-02-05T20:22:07.000Z,External,Allow
